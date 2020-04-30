@@ -15,7 +15,7 @@ Neste teste você irá construir uma aplicação em React Native contendo:
 
 ## Visual & Funcionalidades
 
-Quando um usuário entrar no aplicado, ele poderá escolher entre 2 botões
+Quando um usuário entrar no aplicativo, ele poderá escolher entre 2 botões
 
 - O primeiro, ao clicar, vai abrir um modal sobrepondo a tela inicial, com informações do usuário:
 foto, nome, data de nascimento e idade (calculada pelo javascript).
