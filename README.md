@@ -27,7 +27,7 @@ foto, nome, data de nascimento e idade (calculada pelo javascript).
 
 - Boas práticas e patterns
 - Código e estrutura da aplicação
-- Use de hooks
+- Uso de hooks
 - Componentização e fluxo de dados
 - Facilidade de leitura de código
 - Fluidez das animações
